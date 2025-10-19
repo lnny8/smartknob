@@ -1,0 +1,1 @@
+I’m building a SmartKnob, a haptic control knob with snap feedback, an integrated round LCD display, and RGB LEDs. It combines smooth motion with tactile clicks and visual feedback for smart interfaces or creative control.
